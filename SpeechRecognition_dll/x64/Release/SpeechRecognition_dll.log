@@ -1,0 +1,9 @@
+﻿  SpeechRecognition.cpp
+SpeechRecognition.cpp(161): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     ライブラリ D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\x64\Release\SpeechRecognition_dll.lib とオブジェクト D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\x64\Release\SpeechRecognition_dll.exp を作成中
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  コード生成しています。
+  All 313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  SpeechRecognition_dll.vcxproj -> D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\x64\Release\SpeechRecognition_dll.dll
+  SpeechRecognition_dll.vcxproj -> D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\x64\Release\SpeechRecognition_dll.pdb (Full PDB)

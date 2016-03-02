@@ -1,0 +1,5 @@
+﻿  SpeechRecognition.cpp
+     ライブラリ D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\Debug\SpeechRecognition_dll.lib とオブジェクト D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\Debug\SpeechRecognition_dll.exp を作成中
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  SpeechRecognition_dll.vcxproj -> D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\Debug\SpeechRecognition_dll.dll
+  SpeechRecognition_dll.vcxproj -> D:\MyData\Program\VisualStudio\RealsenseSDK_SpeechRecognition\Debug\SpeechRecognition_dll.pdb (Partial PDB)
